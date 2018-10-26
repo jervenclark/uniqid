@@ -12,7 +12,8 @@
     "homepage": "https://github.com/jervenclark/uniqid",
     "keywords": ["Laravel", "Uniqid"],
     "require": {
-        "illuminate/support": "~5"
+        "illuminate/support": "~5",
+        "ramsey/uuid": "^3.8"
     },
     "require-dev": {
         "phpunit/phpunit": "~7.0",
