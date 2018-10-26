@@ -1,6 +1,6 @@
 {
     "name": "jervenclark/uniqid",
-    "description": ":description",
+    "description": "Uniqid trait for laravel models",
     "license": "MIT",
     "authors": [
         {
